@@ -1,0 +1,8 @@
+{
+  "ip":"172.16.21.72",
+  "install_dir":"/mydata/qianxun7118/",
+  "threads":"8",
+  "database":"qianxun",
+  "mysql_root":"root",
+  "mysql_password":"admin"
+}
